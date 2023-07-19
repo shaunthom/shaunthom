@@ -1,0 +1,1 @@
+Hey there! I'm Shaun Thomas and I'm a graduate student in Data Science at SUNY, Buffalo. An avid chess player who hates to lose, I turned my attention towards data analytics ever since I got my internship role at Tata Consultancy Roles. 
