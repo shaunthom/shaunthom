@@ -1,6 +1,9 @@
 Hey there! I'm Shaun Thomas and I'm a graduate student in Data Science at SUNY, Buffalo. 
+
 💻 I love to tell stories and tales through data using various tools
+
 🌱 I am currently learning Advanced Statistics for Data scientists
+
 👨‍💻 Some of my projects:
 
 RemoteReality: Visualizing the Benefits of Remote Work - A data visualization website that dives deep into the reason why people prefer offsite work over onsite work
