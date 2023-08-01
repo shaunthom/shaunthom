@@ -7,8 +7,11 @@ Hey there! I'm Shaun Thomas and I'm a graduate student in Data Science at SUNY, 
 👨‍💻 Some of my projects:
 
 RemoteReality: Visualizing the Benefits of Remote Work - A data visualization website that dives deep into the reason why people prefer offsite work over onsite work
+
 Deep learning Chess - A robust deep learning model that accurately predicts results of a chess match based on momentum of players, quality of opposition & color assignment
+
 IOT Water Management System - Developed a platform that reports water consumption, displays water level in sumps, automated fresh water supply & much more
+
 Snake Robot - A surveillance device designed to monitor hazardous areas and report back findings in real-time - Won the award for Best Surveillance Device at IEEE National Tech Fest in 2021 
 
 My Story:
