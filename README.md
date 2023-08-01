@@ -1,4 +1,4 @@
-Hey there! I'm Shaun Thomas and I'm a graduate student in Data Science at SUNY, Buffalo. 
+Oh Hi there! I'm Shaun Thomas and I'm a graduate student in Data Science at SUNY, Buffalo. 
 
 💻 I love to tell stories and tales through data using various tools
 
