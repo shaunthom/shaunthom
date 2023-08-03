@@ -29,3 +29,8 @@ to major in this field after these experiences. I am now studying Data Science a
 I am eager to collaborate on data related projects. 
 
 🍵 Let's talk : shaunkan@buffalo.edu, (716)2382485
+
+
+
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthom&layout=compact
