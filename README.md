@@ -33,6 +33,7 @@ I am eager to collaborate on data related projects.
 Languages and Libraries:
 
 <div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="70" height="40"/>&nbsp;
   <img src="https://www.python.org/static/community_logos/python-logo.png" title="Python" alt="Python" width="70" height="40"/>&nbsp;
   <img src="https://www.r-project.org/Rlogo.png" title="R" alt="R" width="70" height="40"/>&nbsp;
   <img src="https://pandas.pydata.org/docs/_static/pandas.svg" title="Pandas" alt="Pandas" width="70" height="40"/>&nbsp;
