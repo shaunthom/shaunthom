@@ -30,15 +30,16 @@ I am eager to collaborate on data related projects.
 
 🍵 Let's talk : shaunkan@buffalo.edu, (716)2382485
 
-Languages
+Languages and Libraries:
 
 <div>
-
-  <img src="https://camo.githubusercontent.com/313249387e86ff7259027269646a2e27fa91746bd2e2df63869f38133fed74d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72666c6f772d626c61636b3f6c6f676f3d74656e736f72666c6f77267374796c653d736f6369616c" title="Tensorflow" alt="Tensorflow" width="70" height="40"/>&nbsp;
   <img src="https://www.python.org/static/community_logos/python-logo.png" title="Python" alt="Python" width="70" height="40"/>&nbsp;
+  <img src="https://www.r-project.org/Rlogo.png" title="R" alt="R" width="70" height="40"/>&nbsp;
   <img src="https://pandas.pydata.org/docs/_static/pandas.svg" title="Pandas" alt="Pandas" width="70" height="40"/>&nbsp;
   <img src="https://keras.io/img/logo.png" title="Keras" alt="Keras" width="70" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/313249387e86ff7259027269646a2e27fa91746bd2e2df63869f38133fed74d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72666c6f772d626c61636b3f6c6f676f3d74656e736f72666c6f77267374796c653d736f6369616c" title="Tensorflow" alt="Tensorflow" width="70" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" title="XGBoost" alt="XGBoost" width="70" height="40"/>&nbsp;
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Scikit-learn" alt="Scikit-learn" width="70" height="40"/>&nbsp;
   <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-horizontal.png" title="Flask" alt="Flask" width="70" height="40"/>&nbsp;
   <img src="https://spacy.io/_next/static/media/spacy-tailored-pipelines_wide.40a24484.png"  title="spaCy" alt="spaCy" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="40"/>&nbsp;
@@ -46,5 +47,4 @@ Languages
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="40"/>&nbsp;
-
 </div>
