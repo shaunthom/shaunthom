@@ -51,4 +51,4 @@ Languages and Libraries:
 </div>
 
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=shaunthom.visitor-badge" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=shaunthom" alt="visitor badge"/>
