@@ -49,3 +49,6 @@ Languages and Libraries:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="40"/>&nbsp;
 </div>
+
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/shaunthom" alt="visitor badge"/>
