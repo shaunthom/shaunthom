@@ -7,7 +7,8 @@ Oh Hi there! I'm Shaun Thomas and I'm a graduate student in Data Science at SUNY
 👨‍💻 Some of my projects:
 
 RemoteReality: Visualizing the Benefits of Remote Work - A data visualization website that dives deep into the reason why people prefer offsite work over onsite work
-               [ Check out my website here: ]
+<br>
+               [ Check out my website here: https://sites.google.com/view/shaunjay]
 
 Deep learning Chess - A robust deep learning model that accurately predicts results of a chess match based on momentum of players, quality of opposition & color assignment
 
