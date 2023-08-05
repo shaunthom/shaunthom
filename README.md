@@ -29,7 +29,7 @@ using pandas during this time. I was also helping out with various data visualiz
 to major in this field after these experiences. I am now studying Data Science at SUNY, Buffalo.
 I am eager to collaborate on data related projects. 
 
-🍵 Let's talk : shaunkan@buffalo.edu, (716)2382485
+🍵 Let's talk : shaunkan@buffalo.edu, +1(716)2382485
 
 Languages and Libraries:
 
