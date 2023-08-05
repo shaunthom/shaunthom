@@ -52,5 +52,4 @@ Languages and Libraries:
 
 
 
-
-        <img src="https://komarev.com/ghpvc/?username=shaunthom" alt="visitor badge"/>
+<img src="https://komarev.com/ghpvc/?username=shaunthom" alt="visitor badge"/>
