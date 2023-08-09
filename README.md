@@ -54,6 +54,4 @@ Languages and Libraries:
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthom&layout=compact" alt="Most used languages"/>
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shaunthom" alt="visitor badge"/></p>
