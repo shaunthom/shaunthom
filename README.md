@@ -54,6 +54,6 @@ Languages and Libraries:
 <br>
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthom" width="200"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthom" width="600"></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shaunthom" alt="visitor badge"/></p>
