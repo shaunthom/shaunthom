@@ -3,6 +3,7 @@ Oh Hi there! I'm Shaun Thomas and I'm a graduate student in Data Science at SUNY
 💻 I love to tell stories and tales through data using various tools
 
 
+
 🌱 I am currently learning Advanced Statistics for Data scientists
 
 👨‍💻 Some of my projects:
