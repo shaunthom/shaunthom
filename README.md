@@ -53,7 +53,6 @@ Languages and Libraries:
 
 <br>
 <br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthom" width="350"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthom&hide=jupyternotebook" width="350"></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shaunthom" alt="visitor badge"/></p>
