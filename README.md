@@ -6,6 +6,8 @@ Oh Hi there! I'm Shaun Thomas and I'm a graduate student in Data Science at SUNY
 
 👨‍💻 Some of my projects:
 
+AI_Huddle: A smart-phone app that enables coaches to use their smartphones to record their verbal comments on each play and selected players during a game and much more!
+
 RemoteReality: Visualizing the Benefits of Remote Work - A data visualization website that dives deep into the reason why people prefer offsite work over onsite work
 <br>[ Check out my website here: https://sites.google.com/view/shaunjay]
 
