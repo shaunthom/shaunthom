@@ -1,4 +1,4 @@
-## Oh Hi there! I'm Shaun
+## Oh Hi there! I'm Shaun    https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
  
 
 🌅 I'm a graduate student in Data Science at SUNY, Buffalo. 
