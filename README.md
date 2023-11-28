@@ -1,4 +1,5 @@
-## Oh Hi there! I'm Shaun    ![Waving Hand](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+## Oh Hi there! I'm Shaun    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">
+
 
 
 🌅 I'm a graduate student in Data Science at SUNY, Buffalo. 
