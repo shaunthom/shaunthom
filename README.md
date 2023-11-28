@@ -1,4 +1,5 @@
-## Oh Hi there! I'm Shaun ![image](https://github.com/shaunthom/shaunthom/assets/134566032/cb0f0084-3179-4e60-aafb-f1bbfa5ef85a)
+## Oh Hi there! I'm Shaun
+![image](https://github.com/shaunthom/shaunthom/assets/134566032/cb0f0084-3179-4e60-aafb-f1bbfa5ef85a)
  
 
 🌅 I'm a graduate student in Data Science at SUNY, Buffalo. 
