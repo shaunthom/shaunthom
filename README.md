@@ -12,6 +12,8 @@
 
 AI_Huddle: A smart-phone app that enables coaches to use their smartphones to record their verbal comments on each play and selected players during a game and much more!
 
+Supply Chain Database System: A database project, focusing on a system designed for handling inventory and resource management in supply chains!
+
 RemoteReality: Visualizing the Benefits of Remote Work - A data visualization website that dives deep into the reason why people prefer offsite work over onsite work
 <br>[ Check out my website here: https://sites.google.com/view/shaunjay]
 
