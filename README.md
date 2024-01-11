@@ -4,7 +4,7 @@
 
 🌅 I'm a graduate student in Data Science at SUNY, Buffalo. 
 
-💻 Previous Data Science Intern @ Tata
+💻 Previous Software Intern @ Tata
 
 💻 I love to tell stories and tales through data using various tools
 
