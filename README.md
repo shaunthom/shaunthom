@@ -55,7 +55,7 @@ Languages and Libraries:
   <img src="https://pandas.pydata.org/docs/_static/pandas.svg" title="Pandas" alt="Pandas" width="70" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/180px-Keras_logo.svg.png" title="Keras" alt="Keras" width="70" height="40"/>&nbsp;
   <img src="https://www.gstatic.com/devrel-devsite/prod/vb47a36f3a983ed748bf281529457db47955fe57e2b5ea15e7e9641c5e7b5032e/tensorflow/images/lockup.svg" title="Tensorflow" alt="Tensorflow" width="70" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" title="XGBoost" alt="XGBoost" width="70" height="40"/>&nbsp;
+  <img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" title="PySpark" alt="Apache PySpark" width="70" height="40"/>&nbsp;
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Scikit-learn" alt="Scikit-learn" width="70" height="40"/>&nbsp;
   <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-horizontal.png" title="Flask" alt="Flask" width="70" height="40"/>&nbsp;
   <img src="https://spacy.io/_next/static/media/spacy-tailored-pipelines_wide.40a24484.png"  title="spaCy" alt="spaCy" width="80" height="40"/>&nbsp;
