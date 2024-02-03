@@ -2,13 +2,15 @@
 
 
 
-🌅 I'm a graduate student in Data Science at SUNY, Buffalo. 
+👨‍🎓 I'm a graduate student in Data Science at SUNY, Buffalo
+
+🏢 Research Assistant using JsPsych, React Native and more JS frameworks
 
 💻 Previous Software Intern @ Tata
 
-💻 I love to tell stories and tales through data using various tools
+🌅 I love to tell stories and tales through data using various tools
 
-🌱 I am currently learning Advanced Statistics for Data scientists
+🌱 I am currently learning Advanced Statistics, Applying Statistical techniques to real-world problems and more!
 
 👨‍💻 Some of my projects:
 
