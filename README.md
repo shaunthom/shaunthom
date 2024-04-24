@@ -36,12 +36,11 @@ data analytics ever since I got my internship role at Tata Consultancy Services.
 with a team of 8 in improving the efficacy of an auto data classifier model. I used specialized Python modules
 to achieve this. With my fellow interns, I was also able to design and execute an algorithm that accurately
 categorized national identifications of citizens of various countries. Not long after this, I had the 
-chance to work as a data analyst intern at another tech company in Kerala. I was working on SQL queries
-using pandas during this time. I was also helping out with various data visualization tasks. I decided
-to major in this field after these experiences. I am now studying Data Science at SUNY, Buffalo.
-I am eager to collaborate on data related projects. 
+chance to work as a software developer at another tech company in Kerala. I was working on SQL queries
+using pandas during this time. I decided to major in this field after these experiences. I am now studying Data Science at SUNY, Buffalo.
+I am eager to collaborate on software / data projects. 
 
-🍵 Let's talk : shaunkan@buffalo.edu, +1(716)2382485
+🍵 Let's talk : shaun.thomas.021@gmail.com, +1(716)2382485
 
 Languages and Libraries:
 
