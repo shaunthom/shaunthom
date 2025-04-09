@@ -1,29 +1,24 @@
 ## Oh Hi there! I'm Shaun    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">
 
 
+🏢 Software Developer using C#, .NET, JavaScript, SQL and more!
 
-👨‍🎓 I'm a graduate student in Data Science at SUNY, Buffalo
+💻 Previous Software Engineer at Tata and at SUNY, Buffalo
 
-🏢 Research Assistant using JsPsych, React Native and more JS frameworks
+🌅 I love to build web applications and portals
 
-💻 Previous Software Intern @ Tata
+🌱 I am currently learning .NET MVC, MVC Architecture and more!
 
-🌅 I love to tell stories and tales through data using various tools
-
-🌱 I am currently learning Advanced Statistics, Applying Statistical techniques to real-world problems and more!
+👨‍🎓 Former Master's Graduate student in Data Science at SUNY, Buffalo
 
 👨‍💻 Some of my projects:
 
-AI_Huddle: A smart-phone app that enables coaches to use their smartphones to record their verbal comments on each play and selected players during a game and much more!
+AI_Huddle: A smart-phone app powered by React native, JavaScript and Python that enables coaches to use their smartphones to record their verbal comments on each play and selected players during a game and much more!
 
 Supply Chain Database System: A database project, focusing on a system designed for handling inventory and resource management in supply chains!
 
 RemoteReality: Visualizing the Benefits of Remote Work - A data visualization website that dives deep into the reason why people prefer offsite work over onsite work
 <br>[ Check out my website here: https://sites.google.com/view/shaunjay]
-
-Deep learning Chess - A robust deep learning model that accurately predicts results of a chess match based on momentum of players, quality of opposition & color assignment
-
-IOT Water Management System - Developed a platform that reports water consumption, displays water level in sumps, automated fresh water supply & much more
 
 Snake Robot - A surveillance device designed to monitor hazardous areas and report back findings in real-time - Won the award for Best Surveillance Device at IEEE National Tech Fest in 2021 
 
