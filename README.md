@@ -1,7 +1,7 @@
 ## Oh Hi there! I'm Shaun    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">
 
 
-🏢 Software Developer using C#, .NET, JavaScript, SQL and more!
+🏢 Software Developer at Myers and Stauffer using C#, .NET, JavaScript, SQL and more!
 
 💻 Previous Software Engineer at Tata and at SUNY, Buffalo
 
