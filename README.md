@@ -3,11 +3,11 @@
 
 🏢 Software Developer at Myers and Stauffer using C#, .NET, JavaScript, SQL and more!
 
-💻 Previous Software Engineer at Tata and at SUNY, Buffalo
+💻 Previous Software Engineer at Tata and at Buffal Early Language Lab
 
 🌅 I love to build web applications and portals
 
-🌱 I am currently learning .NET MVC, MVC Architecture and more!
+🌱 I am currently learning LINQ, Entity Framework and more!
 
 👨‍🎓 Former Master's Graduate student in Data Science at SUNY, Buffalo
 
